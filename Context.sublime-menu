@@ -1,0 +1,7 @@
+[
+    {
+        "id" : "removeGreekAccents",
+        "caption" : "Remove Greek Accents",
+        "command" : "remove_greek_accents"
+    }
+]

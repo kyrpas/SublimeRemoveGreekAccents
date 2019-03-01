@@ -1,0 +1,7 @@
+[
+    {
+        "keys": ["super+shift+'"],
+        "command": "remove_greek_accents"
+    }
+]
+
